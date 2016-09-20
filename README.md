@@ -1,0 +1,2 @@
+# SDKBinariesAuto
+SDK Binaries generation
